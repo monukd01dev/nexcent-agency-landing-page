@@ -3,7 +3,7 @@
 ## Overview
 The **Nexcent Agency Landing Page** is a modern, responsive, and visually appealing webpage built using industry-standard practices with HTML5, CSS3, and JavaScript. The landing page was designed based on a Figma design file to reflect high industry standards. Nexcent Agency specializes in helping businesses grow by establishing a strong online presence.
 
-The live version of the landing page can be found [here](https://nexcent-agency-mkd.netlify.app/), and the source code is available on [GitHub](https://github.com/monukd01dev/Landing-Pages-Projects/tree/master/01-Nexcent-Agency-webpage).
+The live version of the landing page can be found [here](https://nexcent-agency-landing-page.netlify.app/), and the source code is available on [GitHub](https://github.com/monukd01dev/nexcent-agency-landing-page).
 
 ## Features
 - **Responsive Design**: Adapts to all screen sizes including mobile, tablet, and desktop.
@@ -22,24 +22,24 @@ The live version of the landing page can be found [here](https://nexcent-agency-
 ## Live Demo
 Check out the live version of the Nexcent Agency Landing Page:
 
-🔗 **Live Link**: [Nexcent Agency Landing Page](https://nexcent-agency-mkd.netlify.app/)
+🔗 **Live Link**: [Nexcent Agency Landing Page](https://nexcent-agency-landing-page.netlify.app/)
 
 ## Repository
 Explore the code on GitHub:
 
-🔗 **GitHub Repository**: [Landing Pages Projects - Nexcent Agency](https://github.com/monukd01dev/Landing-Pages-Projects/tree/master/01-Nexcent-Agency-webpage)
+🔗 **GitHub Repository**: [Nexcent Agency Landing Page](https://github.com/monukd01dev/nexcent-agency-landing-page)
 
 ## Installation & Usage
 To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/monukd01dev/Landing-Pages-Projects.git
+    git clone https://github.com/monukd01dev/nexcent-agency-landing-page.git
     ```
 
 2. Navigate to the Nexcent Agency project folder:
     ```bash
-    cd Nexcent-Agency-Landingpage
+    cd nexcent-agency-landing-page
     ```
 
 3. Open the `index.html` file in your preferred browser to view the landing page:
